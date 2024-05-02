@@ -1,0 +1,50 @@
+body {
+    /* background-color: ; */
+    padding-top: 75px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+
+#hero {
+    background-image: url(../image/hero_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#about {
+    position: relative;
+    transform: rotate(-5deg);
+}
+
+#about_section {
+    padding-top: 4rem;
+}
+
+#package {
+    padding-top: 3.3rem;        
+}
+
+#contact_us {
+    padding-top: 4.6rem;
+}
+
+#main-section {
+    text-align: justify;
+}
+
+.kontak-kami{
+    background-color: lightgrey;
+    letter-spacing: 2px;
+}
+
+.lspc-2{
+    letter-spacing: 2px;
+}
+
+.lspc-4{
+    letter-spacing: 4px;
+}
+
+/*Mobile  */
+/* @media and (max-width:) */
