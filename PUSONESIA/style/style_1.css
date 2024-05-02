@@ -33,6 +33,14 @@ body {
     text-align: justify;
 }
 
+#service {
+    border-radius: 50%;
+}
+
+#background {
+    background-image: linear-gradient(to right, #12161b, #15282f, #1a3c3b, #304f3d, #55603c);
+}
+
 .kontak-kami{
     background-color: lightgrey;
     letter-spacing: 2px;
